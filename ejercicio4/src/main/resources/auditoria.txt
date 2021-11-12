@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-10-20T22:12:38.764216800Z</date>
+  <millis>1571609558764</millis>
+  <nanos>216800</nanos>
+  <sequence>0</sequence>
+  <logger>edu.cibertec.ejercicio4.LoggingArchivo</logger>
+  <level>INFO</level>
+  <class>edu.cibertec.ejercicio4.LoggingArchivo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>log INFO</message>
+</record>
+<record>
+  <date>2019-10-20T22:12:38.807913Z</date>
+  <millis>1571609558807</millis>
+  <nanos>913000</nanos>
+  <sequence>1</sequence>
+  <logger>edu.cibertec.ejercicio4.LoggingArchivo</logger>
+  <level>SEVERE</level>
+  <class>edu.cibertec.ejercicio4.LoggingArchivo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>log SEVERE</message>
+</record>
+<record>
+  <date>2019-10-20T22:12:38.814483700Z</date>
+  <millis>1571609558814</millis>
+  <nanos>483700</nanos>
+  <sequence>2</sequence>
+  <logger>edu.cibertec.ejercicio4.LoggingArchivo</logger>
+  <level>WARNING</level>
+  <class>edu.cibertec.ejercicio4.LoggingArchivo</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>log WARNING</message>
+</record>
+</log>
+[2019-10-20 17:30:49] [INFO   ] log INFO 
+[2019-10-20 17:30:49] [SEVERE ] log SEVERE 
+[2019-10-20 17:30:49] [WARNING] log WARNING 
